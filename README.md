@@ -18,12 +18,9 @@ CSV for ticket management
 
 This assistant answers questions from your custom FAQ documents and creates support tickets when it cannot answer.
 
-Perfect for:
 
-✔ Startups
-✔ College final year projects
-✔ Internal support systems
-✔ Customer helpdesk automation
+
+
 | Component  | Technology            |
 | ---------- | --------------------- |
 | Language   | Python 3.10+          |
